@@ -42,6 +42,10 @@ nav a {
   padding-right: 2rem;
 }
 
+a:hover {
+  color: green;
+}
+
 /* body */
 main {
   overflow: hidden;
